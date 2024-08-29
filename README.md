@@ -30,14 +30,11 @@ We use machine learning to predict the species of iris flowers (setosa, versicol
 
 The **Support Vector Machine (SVM)** gave the best accuracy (98.33%), so it was selected as the final model.
 
-## Requirements
+## Required Libraries
 
-To run the project, install the following:
-
-'''bash
-pip install -r requirements.txt
-
-'''
+- pandas
+- numpy
+- scikit-learn
 
 
 
